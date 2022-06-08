@@ -1,0 +1,8 @@
+body {
+  background: rgb(197, 228, 246);
+  font-family: "Raleway", sans-serif;
+  margin: 2%;
+}
+.container {
+  max-width: 800px;
+}
